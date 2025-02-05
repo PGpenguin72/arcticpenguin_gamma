@@ -1,0 +1,11 @@
+{
+    "1302293453459423253": {
+        "Guild_name": "北極企鵝官方支援伺服器",
+        "Guild_Link": "https://discord.gg/Hy4mJ2qe3W",
+        "Setting": {
+            "Link_Reply": true,
+            "Voice_States": true,
+            "Welcome_Message": true
+        }
+    }
+}
